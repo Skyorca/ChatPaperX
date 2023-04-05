@@ -22,3 +22,4 @@ python chat_paperX.py  --keyword  kw1,kw2,kw3  --max_results 10
 1. 代码里没有加代理。需要vpn开全局模式。
 2. apikey.ini中填充openai key。
 3. 削减了原项目的直接从本地读取pdf的功能，只提供在线下载论文pdf的一种方式
+4. 环境是python3.9+
